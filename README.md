@@ -12,14 +12,14 @@
    ![Web_Microservice_Terminal] (screenshots/33333.png)
    ![Web_Microservice_Web] (screenshots/3333W.png)
 
-2. The service registration service has the two microservices registered
+2. The service registration has the two microservices registered
 
    ![Registration_Service_Terminal] (screenshots/1111.png)
    ![Registration_Service_Web] (screenshots/1111W.png)
 
 3. A second account microservice is running in the port 4444 and it is registered
 
-   Accounts Service number 2
+   Second account microservice
 
    ![Accounts_Microservice_4444_Terminal] (screenshots/4444.png)
    ![Accounts_Microservice_4444_Web] (screenshots/4444W.png)
