@@ -4,29 +4,29 @@
 
    Accounts Microservice
    
-   ![Accounts_Microservice_Terminal] (screenshots/2222.png)
-   ![Accounts_Microservice_Web] (screenshots/2222W.png)
+   ![Accounts_Microservice_Terminal] (screenshots/2222.PNG)
+   ![Accounts_Microservice_Web] (screenshots/2222W.PNG)
 
    Web Microservice
    
-   ![Web_Microservice_Terminal] (screenshots/33333.png)
-   ![Web_Microservice_Web] (screenshots/3333W.png)
+   ![Web_Microservice_Terminal] (screenshots/33333.PNG)
+   ![Web_Microservice_Web] (screenshots/3333W.PNG)
 
 2. The service registration has the two microservices registered
 
-   ![Registration_Service_Terminal] (screenshots/1111.png)
-   ![Registration_Service_Web] (screenshots/1111W.png)
+   ![Registration_Service_Terminal] (screenshots/1111.PNG)
+   ![Registration_Service_Web] (screenshots/1111W.PNG)
 
 3. A second account microservice is running in the port 4444 and it is registered
 
    Second account microservice
 
-   ![Accounts_Microservice_4444_Terminal] (screenshots/4444.png)
-   ![Accounts_Microservice_4444_Web] (screenshots/4444W.png)
+   ![Accounts_Microservice_4444_Terminal] (screenshots/4444.PNG)
+   ![Accounts_Microservice_4444_Web] (screenshots/4444W.PNG)
    
    Registration service with both accounts
    
-   ![Accounts_Microservice_4444_Web] (screenshots/11112W.png)
+   ![Accounts_Microservice_4444_Web] (screenshots/11112W.PNG)
    
 
 4. A brief report describing what happens when you kill the microservice with port 2222.
